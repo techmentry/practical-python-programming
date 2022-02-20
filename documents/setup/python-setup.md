@@ -119,3 +119,4 @@ Successfully installed uuid-1.30
 * Please get used to running python code from the command line. To do so, please read our command line usage guide. It will be extremely useful and will help you to run your programs better.
 * Please check your course details for more information on any specific set of modules/ setup that you might have to do. Please write to `dev.techmentry at gmail dot com` for reporting any issues.
 * We recommend using VS Code to program in python. You are however, free to use any other form of IDE, source code editor or live code editors. If you are interested in using VS code, please follow our VS code setup guide to obtain it for your system.
+
