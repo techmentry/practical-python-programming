@@ -117,5 +117,5 @@ Successfully installed uuid-1.30
 * This is a one time setup. Do not repeat this every time, or else you will end up with multiple and conflicting versions of python.
 * Please make sure you are using Python 3. If the above commands give you an output like `2.ab.cd`, please upgrade to Python 3 by following the instructions above. **Python 2 support has ended and will be removed in the future.**
 * Please get used to running python code from the command line. To do so, please read our command line usage guide. It will be extremely useful and will help you to run your programs better.
-* Please check your course details for more information on any specific set of modules/ setup that you might have to do. Please write to [dev.techmentry@gmail.com](mailto:dev.techmentry@gmail.com) for reporting any issues.
+* Please check your course details for more information on any specific set of modules/ setup that you might have to do. Please write to `dev.techmentry at gmail dot com` for reporting any issues.
 * We recommend using VS Code to program in python. You are however, free to use any other form of IDE, source code editor or live code editors. If you are interested in using VS code, please follow our VS code setup guide to obtain it for your system.
